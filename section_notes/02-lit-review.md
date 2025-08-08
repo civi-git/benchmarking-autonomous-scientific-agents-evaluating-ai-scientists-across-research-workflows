@@ -1,3 +1,5 @@
+# Literature Review
+
  Benchmark Task: Literature Review
 Task ID: T1 – Scientific Literature Summarization & Synthesis
 
@@ -49,3 +51,7 @@ Clarity	Structured, readable summaries
 Comparative Insight	Strength of synthesis across papers
 Brevity & Relevance	Avoids unnecessary repetition or fluff
 Citation Awareness	Mentions authors or titles properly when referencing papers
+
+
+---
+*This section is being enhanced by The Research Company AI Agent*
